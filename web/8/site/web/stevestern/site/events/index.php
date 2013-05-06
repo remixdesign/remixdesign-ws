@@ -1,0 +1,1 @@
+<?phpinclude ("../includes/top.php");?><h1>Events Schedule</h1><p>Check back soon for upcoming events</p><?phpinclude ("../includes/bottom.php");?>

@@ -1,0 +1,18 @@
+#top {
+	background: #008202 url("../images/top_what-we-do_bg.gif") repeat-x scroll bottom;
+}
+
+#bottom {
+	background-color: #008202;
+}
+	#bottom a {
+		color: #ffffff;
+		background-color: #008202;
+	}
+
+h4 {
+	color: #008202;
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 20px;
+}

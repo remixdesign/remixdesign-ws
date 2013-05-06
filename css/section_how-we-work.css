@@ -1,0 +1,18 @@
+#top {
+	background: #008202 url("../images/top_how-we-work_bg.gif") repeat-x scroll bottom;
+}
+
+h3 {
+	color: #008202;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+#bottom {
+	background-color: #008202;
+}
+	#bottom a {
+		color: #ffffff;
+		background-color: #008202;
+	}

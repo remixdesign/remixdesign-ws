@@ -1,0 +1,92 @@
+#top {
+	background: #FFF8C5 url("../images/top_blog_bg.gif") repeat-x scroll bottom;
+}
+
+#bottom, #bottom a {
+	color: #000000;
+	background-color: #FFF8C5;
+}
+
+h2, h3.widgettitle, h4, h5 {
+	color: #FFF8C5;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 18px;	
+}
+
+
+h4, h3.widgettitle {
+	padding-top: 20px;	
+	padding-bottom: 10px;
+}
+
+h5 {
+	font-size: 14px;	
+}
+
+li {
+	margin-bottom: 10px;	
+}
+
+h3.commentHeading {
+	margin-top: 30px;	
+	margin-bottom: 0px; 
+}
+
+.section_info a:hover {
+	color: #000000;
+	background-color: #ffffff;
+}
+
+
+.section_info li, .section_info ul, .section_info ul li {
+	list-style-type: none;
+}
+
+.blog_gallery {
+	text-align: center;	
+}
+
+.blog_gallery a {
+	padding: 0px;
+	background-color: #bfbfbf;
+}
+
+.blog_gallery img {
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	border: 3px solid #ffffff;
+}
+		
+.blog_gallery img:hover {
+	border: 3px solid #000000;
+}
+
+.entry-date {
+	font-size: 10px;
+}
+
+.entry-meta {
+	font-size: 10px;
+	padding: 10px 0px;
+	margin: 50px 0px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	clear: both;
+}
+
+div.navigation {
+	height: 25px;	
+}
+
+div.nav-next {
+	float:right;
+	text-align:right;
+}
+
+div.nav-previous {
+	float:left;
+}

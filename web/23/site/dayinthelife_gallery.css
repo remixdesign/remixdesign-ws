@@ -1,0 +1,89 @@
+	a.arrow-right {
+	background: url(images/arrow-right.gif) top left no-repeat; 
+	position: relative;
+	top: 150px;
+	/* IE6 hack */ _top: 175px;
+	left: -6px;
+	/* IE6 hack */ _left: -2px;
+	z-index: 5;
+	background-position: 0px 0px; 
+	width: 14px; 
+	height: 29px; 
+	z-index: 100;
+	}
+	
+	/* IE6 hack */ a.arrow-right {
+	_background: url(images/arrow-right-hack.gif) top left no-repeat; 
+	_width: 20px; 
+	}
+	
+	a.arrow-right:hover {
+	background: url(images/arrow-right.gif) top left no-repeat; 
+	background-position: 0px -29px;
+	}
+	
+	a.arrow-left {
+	background: url(images/arrow-left.gif) top left no-repeat;
+	/* IE6 hack */ _background: url(images/arrow-left-hack.gif) top left no-repeat; 
+	position: relative;
+	top: 150px;
+	/* IE6 hack */ _top: 175px;
+	left: 8px;
+	z-index: 5;
+	/* IE6 hack _margin-right: -7px;*/
+	background-position: 0px 0px; 
+	width: 14px; 
+	height: 29px; 
+	}
+	
+	a.arrow-left:hover {
+	background: url(images/arrow-left.gif) top left no-repeat; 
+	background-position: 0px -29px;
+	}
+	
+	.imageSlider {
+	width: 380px;
+	height: 400px;
+	text-align: center;
+	/* IE6 hack _width: 580px; */ 
+	}
+	
+	#jCarouselLite {
+	border: 1px solid #33ccff;
+	float: left;
+	z-index: 0;
+	}
+	
+	#jCarouselLite li {
+		text-align: center;
+	}
+	
+	body:first-of-type img.photo_shift {
+		margin-left: 20px;
+	}
+	
+	.float-left {float:left;}
+	.float-right {float:right;}
+
+	/* #dayinthelife_galleryInner {
+	width: 575px;
+	height: 575px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	} */
+	
+	.dayinthelife_caption {
+	text-align: center;
+	overflow:visible;
+	width: 350px;
+	height: 50px;
+	margin: 2px;
+	color: #444444;
+	font-family: Verdana, Arial, 'sans serif';
+	font-size: 11px;
+	}
+	
+	.photo_horizontal {
+		margin-top: 55px;	
+	}

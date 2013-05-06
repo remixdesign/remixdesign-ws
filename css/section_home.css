@@ -1,0 +1,24 @@
+#top {
+	background: #000000 url("../images/top_home_bg.gif") repeat-x scroll bottom;
+}
+
+.feedburnerFeedBlock li {
+	list-style-type: none;	
+}
+
+.feedburnerFeedBlock .headline {
+	font-size: 16px;	
+}
+
+.feedburnerFeedBlock .date {
+	font-size: 10px;
+}
+
+.feedburnerFeedBlock #creditfooter {
+	text-align: right;
+}
+
+.feedburnerFeedBlock #creditfooter a {
+	padding: 0px;
+	background-color: #bfbfbf;
+}

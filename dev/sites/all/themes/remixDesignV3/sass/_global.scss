@@ -1,0 +1,480 @@
+/* ==========================================================================
+   Sass variables 
+   ========================================================================== */
+
+/* Colors 
+   ========================================================================== */
+
+$main-color: #bfbfbf;
+$darkest-color: #000;
+$lightest-color: #fff;
+$mid-color: #666;
+$mid-dark-color: #333;
+$mid-light-color: #999;
+
+$web-section-color: #0015FF;
+$print-section-color: #C8252C;
+$identity-section-color: #4D5C87;
+$info-section-color: #008202;
+$contact-section-color: #F08000;
+$blog-section-color: #FFF8C5;
+
+/* Media queries 
+ * Note: consider replacing with https://gist.github.com/anthonyshort/2028061
+   ========================================================================== */
+
+$mq-mobile-portrait-width: "screen and (max-width: 320px)";
+$mq-mobile-landscape-width: "screen and (max-width: 480px)";
+$mq-tablet-portrait-width: "screen and (max-width: 768px)";
+$mq-tablet-landscape-width: "screen and (max-width: 1024px)";
+$mq-desktop-width: "screen and (max-width: 1382px)";
+$mq-desktop-widescreen-width: "screen and (max-width: 1920px)";
+
+/* ==========================================================================
+   Sass mixins 
+   ========================================================================== */
+
+@mixin default-link-hover-style {
+  
+  &:hover {
+    color: $darkest-color;
+    background-color: $lightest-color;
+  }
+}
+
+// Alternate media query method, not sure I'll use
+/*
+@mixin respond-to($media) {
+  
+  @if $media == handhelds {
+    @media only screen and (max-width: 479px) { @content; }
+  }
+  @else if $media == wide-handhelds {
+    @media only screen and (min-width: 480px) and (max-width: 767px) { @content; }
+  }
+  @else if $media == tablets {
+    @media only screen and (min-width: 768px) and (max-width: 959px) { @content; }
+  }
+}
+*/
+
+/* ==========================================================================
+   Sass functions 
+   ========================================================================== */
+
+@function get-pct($target, $container) {
+  @return ($target / $container) * 100%;
+}
+
+/* ==========================================================================
+   General Tag Selectors / Typography 
+   ========================================================================== */
+
+body {
+  font: 75%/170% Verdana, Helvetica, Arial, sans-serif;
+  color: $darkest-color;
+  background-color: $main-color;
+}
+
+h1 {
+  font-size: 300%;
+  line-height: 100%;
+  margin-bottom: 2%;
+}
+
+h2 {
+  font-size: 200%;
+  line-height: 100%;
+}
+
+h3 {
+  font-size: 150%;
+  line-height: 100%;
+}
+
+
+h4 {
+  font-size: 112.5%;
+  line-height: 100%;
+}
+
+p {
+  margin-bottom: 1%;
+}
+
+ul {
+  margin-left: 1%;
+  list-style-type: square;
+}
+
+a {
+  text-decoration: none;
+  padding: 0 5px 3px;
+  
+  &:link, &:active, &:visited {
+    color: $lightest-color;
+    background-color: $mid-color;
+  }
+  
+  @include default-link-hover-style;
+  
+  &.remove-link-style {
+    padding: 0;
+    background-color: inherit;
+    
+    &:hover{
+      color: inherit;
+    }
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+strong {
+  font-weight: bold;
+}
+
+input, textarea {
+  color: #333;
+  background-color: $lightest-color;
+  border: 1px solid $mid-color;
+  font: 100% Helvetica, Arial, sans-serif;
+}
+
+textarea {
+  width: 95%;
+}
+
+input[type="submit"] {
+  font-weight: bold;
+  color: $lightest-color;
+  background-color: $darkest-color;
+  border: 1px solid $darkest-color;
+}
+
+hr {
+  margin: 1% 0;
+}
+
+/* ==========================================================================
+   General class selectors
+   ========================================================================== */
+
+.thumb {
+    margin: 0 1% 1% 0;
+    border: 3px solid $lightest-color;
+    
+    &:hover {
+      border: 3px solid $darkest-color;
+    }
+}
+
+.outdent {
+  position: relative;
+  left: -2%;
+}
+
+.superscript {
+  font-size: 80%;
+  position: relative;
+  top: -3px;
+  left: 1px;
+}
+
+.small-print {
+  font-size: 85%; 
+}
+
+.margin-reset {
+  margin: 0 !important;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+/* ==========================================================================
+   Layout - Global 
+   ========================================================================== */
+
+#page {
+  
+  margin-top: 1%;
+  
+}
+
+header#header {
+
+  /* Positioning */
+  position: relative;
+  
+  /* Display & Box Model */
+  width: 80%;
+  padding: 1% 10%;
+  
+  /* Font, Color, etc. */
+  color: $lightest-color;
+  background-color: $darkest-color;
+  
+  &.web {
+    background-color: $web-section-color;
+  }
+
+  &.print {
+    background-color: $print-section-color;
+  }
+
+  &.identity {
+    background-color: $identity-section-color;
+  }
+
+  &.info {
+    background-color: $info-section-color;
+  }
+
+  &.blog {
+    background-color: $blog-section-color;
+  }
+  
+  h1, .region-header {
+    display: inline-block;
+  }
+  
+  ul.menu {
+    
+    display: inline-block;
+    
+    li {
+      display: inline;
+    }
+    
+    li:first-child{
+      display: none;
+    }
+    
+    ul.menu {
+      
+      li {
+        display: block;
+      }
+    }
+  }
+}
+
+nav#subnav {
+ 
+  position: relative;
+  width: 80%;
+  padding: 1% 10%;
+  
+  // Compass gradient background
+  
+  h2 {
+    
+  }
+  
+  a {
+    color: $main-color;
+    background-color: $lightest-color;
+    margin-right: 1%;
+     
+    &:hover {
+      color: $darkest-color;
+    }
+  }
+  
+} 
+
+#main {
+  
+  position: relative;
+  width: 100%; 
+}
+
+#content {
+  
+  margin: 1% 10%;
+}
+  
+
+footer#footer {
+  
+  width: 100%;
+  text-align: center;
+  color: $lightest-color;
+  background-color: $darkest-color;
+  padding: 1% 0;
+  margin-top: 2%;
+  
+  ul.menu {
+    
+    list-style-type: none;
+    margin-left: 5px;
+    margin-bottom: 1%;
+          
+    li {
+      margin-right: 1%;
+      display: inline;
+      
+      @media #{$mq-mobile-portrait-width} {
+        margin: 0;
+        display: block;
+      }
+    }
+    
+    a {
+      font-weight: bold;
+      background-color: $mid-dark-color;
+      
+      @include default-link-hover-style;
+    }
+    
+    ul.menu {
+      
+      display: inline;
+      
+      @media #{$mq-mobile-portrait-width} {
+        display: block;
+      }
+      
+      a {
+        font-weight: normal;
+      }
+      
+      li {
+        margin: 0;
+        
+        @media #{$mq-mobile-portrait-width} {
+          display: inline;
+        }
+      }
+    }
+  }
+}
+
+/* ==========================================================================
+   Layout - Node Type: Portfolio Piece 
+   ========================================================================== */
+
+.node-portfolio-piece {
+    
+  .col-content {
+    float: left;
+    width: 70%;
+    text-align: center;
+  }
+
+  .col-info {
+    float: left;
+    width: 30%;
+  }
+  
+}
+
+/* Taken from old site, reformat or rewrite as appropriate */
+
+/*
+ 
+ .gallery_subhead {
+  font-size: 18px;
+  margin-bottom: -10px;
+}
+
+.gallery_action {
+  color: $lightest-color;
+  font-size: 16px;
+  margin: 1px;
+}
+
+.input_textbox {
+  width: 300px; 
+}
+
+  
+
+
+  
+  h3.home {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    color: $lightest-color;
+    margin-top: 0px;
+  }
+
+  .home_thumb {
+      float: left;
+      margin-right: 40px;
+      width: 125px;
+      height: 125px;
+      border: 3px solid $lightest-color;
+    }
+    
+    .home_thumb:hover {
+      border: 3px solid $darkest-color;
+    }
+    
+  .home_info {
+    float: left;
+    width: 350px;
+  }
+    
+
+  .section_info, .section_content, #gallery_content, #gallery_info {
+    float: left;
+  }
+
+  .section_info {
+    width: 150px;
+    margin-right: 25px;
+  }
+  
+    .section_info a:hover {
+      background-color: $main-color;
+    }
+    
+    .section_info h4 {
+      margin: 0px;
+    }
+  
+  .section_content {
+    width: 700px;
+  }
+  
+  
+  .section_thumb_container {
+    float: left;
+    width: 125px;
+    height: 200px;
+    margin-left: 50px;
+    text-align: center;
+  }
+  
+    .section_thumb_container a:first-child {
+      padding: 0px;
+      background-color: $main-color;
+    }
+    
+    .section_thumb_container img {
+      border: 3px solid $lightest-color;
+    }
+    
+    .section_thumb_container img:hover {
+      border: 3px solid $darkest-color;
+    }
+    
+ */

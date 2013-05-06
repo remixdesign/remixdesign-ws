@@ -1,0 +1,1 @@
+<?phpinclude("../header.php");?>		<img src="1.jpg" alt="Oedipus Rex" />				<h3>Oedipus Rex</h3>				<p>Assignment. Illustrated by designer. Theater poster advertising a performance of the classical Greek tragedy.</p>				</div>				<div id="subnav">		<a href=""><div class="subButton">&nbsp;</div></a><?phpinclude ("../footer.php");?>

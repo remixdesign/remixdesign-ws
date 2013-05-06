@@ -1,0 +1,1 @@
+<?phpinclude("../header.php");?>		<img src="1.jpg" alt="Vespa" />				<h3>Vespa</h3>				<p>Assignment. Illustrated by designer. Advertising campaign for those stylish Italian scooters.</p>				</div>				<div id="subnav">		<a href=""><div class="subButton">&nbsp;</div></a><?phpinclude ("../footer.php");?>

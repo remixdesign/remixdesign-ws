@@ -1,0 +1,1 @@
+<hr /><p><a href="javascript:window.close();">Close Window</a></p></body></html>

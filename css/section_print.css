@@ -1,0 +1,11 @@
+#top {
+	background: #C8252C url("../images/top_print_bg.gif") repeat-x scroll bottom;
+}
+
+#bottom {
+	background-color: #C8252C;
+}
+	#bottom a {
+		color: #ffffff;
+		background-color: #C8252C;
+	}

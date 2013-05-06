@@ -1,0 +1,1 @@
+<?phpinclude("../header.php");?>		<img src="1.jpg" alt="The Homeless" />				<h3>The Homeless</h3>				<p>Assignment. Book cover for a non-fiction collection of stories from New York City's displaced and wandering.</p>				</div>				<div id="subnav">		<a href=""><div class="subButton">&nbsp;</div></a><?phpinclude ("../footer.php");?>

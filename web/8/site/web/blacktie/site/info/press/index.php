@@ -1,0 +1,1 @@
+<?phpinclude ('../../includes/header.php');?><h1>Press</h1><?phpinclude('../../includes/footer.php');?>

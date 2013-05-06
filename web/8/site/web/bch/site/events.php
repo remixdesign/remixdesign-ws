@@ -1,0 +1,1 @@
+<?php include ('header.php');?><img src="images/events_heading.png" width="217" height="41" alt="Events Calendar" /><p>&nbsp;</p><p>For more information about any of these events, please call (631) 661-7223.</p><?php include ('footer.php');?>

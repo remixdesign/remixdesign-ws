@@ -1,0 +1,1 @@
+<?phpinclude("../header.php");?>		<a href="site/">		<img src="1.jpg" alt="Volkswagen" /></a>				<h3><a href="site/">Volkswagen</a></h3>				<p>Assignment. Flash site showcasing the latest models from the stylish German motor company.</p>				</div>				<div id="subnav">		<a href=""><div class="subButton">&nbsp;</div></a><?phpinclude ("../footer.php");?>

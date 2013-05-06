@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+DIV{-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding: 0;}
+
+#dayinthelife_container {
+	position:relative;
+	width:728px;
+	height: 1060px;
+	background: #ffffff url('images/bg.jpg') no-repeat top center;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#dayinthelife_container img {
+	border: 0px;
+}
+
+#dayinthelife_container a:link, #dayinthelife_container a:active, #dayinthelife_container a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+
+#dayinthelife_container a:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+
+#dayinthelife_links {
+	text-transform: uppercase;
+	font: 10px Verdana, Arial, "sans serif";
+	position: absolute;
+	left: 37px;
+	top: 0px;
+	*top: 7px;
+}
+
+#dayinthelife_sponsor {
+	display: block;
+	width: 110px;
+	height: 110px;
+	z-index: +1;
+	position: absolute;
+	left: 602px;
+	top: 17px;	
+}
+
+#dayinthelife_gallery {
+	position: absolute;
+	left: 26px;
+	top: 645px;
+	/* ie6 hack */ _top: 620px;
+}
+
+#dayinthelife_video {
+	position: absolute;
+	left: 375px;
+	top: 145px;
+}
+
+#dayinthelife_jaydecam {
+	position: absolute;
+	left: 427px;
+	top: 690px;
+}

@@ -1,0 +1,11 @@
+#top {
+	background: #0015FF url("../images/top_web_bg.gif") repeat-x scroll bottom;
+}
+
+#bottom {
+	background-color: #0015FF;
+}
+	#bottom a {
+		color: #ffffff;
+		background-color: #0015FF;
+	}

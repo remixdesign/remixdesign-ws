@@ -1,0 +1,1 @@
+<?phpinclude ("../includes/top.php");?><h1>Suffolk County's 16th District</h1><p class="center"><a href="../images/district_big.gif" target="blank"><img src="../images/district.gif" width="289" height="500" alt="16th District" /></a></p><p>Click on the map above to open a larger version in a new window.</p><?phpinclude ("../includes/bottom.php");?>

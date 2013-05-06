@@ -1,0 +1,1 @@
+<p class="caption"><em>We Gotta Talk 'Baby':</em> Making Responsible Choices in the 21st Century<br />&copy; 2005-2006 All rights reserved.<br />Publisher: Responsible Choices Publishing Co., Inc.</p></div></div></div></div></body></html>

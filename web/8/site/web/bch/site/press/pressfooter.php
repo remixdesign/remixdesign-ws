@@ -1,0 +1,1 @@
+<div id="footer"><p align="center">###</p><p> <a href="javascript:window.close();">Close Window</a></p></div></body></html>

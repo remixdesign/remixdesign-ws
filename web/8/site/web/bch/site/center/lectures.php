@@ -1,0 +1,1 @@
+<?php include ('header.php');?><img src="images/lectures_heading.png" width="152" height="41" alt="Lectures" /><p>There are no upcoming lectures for the summer of 2005. Lecture series will continue in the fall.</p><?php include ('footer.php');?>
