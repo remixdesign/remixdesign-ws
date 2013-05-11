@@ -91,7 +91,7 @@
 	}
  
 ?>
-<nav id="subnav">
+<nav id="subnav" class="l-wrapper-reponsive">
        
     <h2>
         sectionName

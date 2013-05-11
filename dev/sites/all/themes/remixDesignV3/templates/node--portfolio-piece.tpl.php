@@ -85,12 +85,6 @@
  
  	$unpublished = variable_get('unpublished');
 
-	if ($teaser) {
-	  $headingTag = 'h3';
-	} else {
-	  $headingTag = 'h1';
-	}
-    
     // get node's taxonomy Tag as a string
     
     $tagString = field_view_field('node', $node, 'field_tags', array('default'));
@@ -131,12 +125,17 @@
         
 		?>
 		
-		<?php if ($node->field_client_copyright): ?>
+		<?php 
+		      
+		      $clientCopyright = $node->field_client_copyright['und'][0]['value'];
+              
+              unset ($content['field_client_copyright']);
+		
+		      if ($clientCopyright): 
+		?>
 		
 		<p class="small-print">
-		    <?php print $node->field_client_copyright['und'][0]['value']; 
-		    //print '<pre>' . print_r($node->field_client_copyright,1) . '</pre>';
-		    ?>
+		    <?php print $clientCopyright; ?>
 		</p>
 		
 		<?php endif; ?>
@@ -155,9 +154,11 @@
               print render($title_prefix);
           } ?>
           
-          <?php //if (!$page && $title): ?>
-            <<?php print $headingTag; print $title_attributes; ?> class="align-center"><?php print $title;?></<?php print $headingTag; ?>>
-          <?php //endif; ?>
+          <?php if ($teaser && $title): ?>
+            <h3<?php print $title_attributes; ?>><a href="<?php print $node_url; ?>"><?php print $title;?></a></<h3>
+          <?php elseif ($page && $title): ?>  
+            <h1 class="l-align-center"<?php print $title_attributes; ?>><?php print $title;?></h1>
+          <?php endif; ?>
           
           <?php if ($title_suffix) {
               print render($title_suffix);
@@ -172,27 +173,28 @@
 	  
       <?php if (!$teaser): ?>
           
-    	<div class="align-center">
-              
-              Thumbnails go here
+    	<div class="l-align-center">
               
               <?php
                 
-                    /*if ($node->field_display_thumbnails && $node->field_number_of_thumbnails) {
+                    if ($node->field_display_thumbnails && $node->field_number_of_thumbnails) {
                         
-                        echo "Whee thumbs!";
+                        for ($i = 1; $i <= $node->field_number_of_thumbnails['und'][0]['value']; $i++) {
                         
-                        for ($i == 1; $i <= $node->field_number_of_thumbnails; $i++) {
-                        
-                            echo '<a href="?img=' . $i . '">
-                            <img src="thumbs/th_' . $i . '.gif" class="thumb" alt="' . $i . '" /></a>
+                            echo '<a href="?img=' . $i . '" class="remove-link-style">
+                            <img src="/_img/portfolio/' . $tagString . '/' . $titleSlug . '/th_' . $i . '.gif" class="thumb" alt="' . $i . '" /></a>
                         
                         ';
                         
                         }
-                    }*/
+                    }
                 ?>
               
+          </div>
+          
+          <!-- TO DO: Make this conditional on having either a "site" folder to show static live site, or sub-gallery for animated content -->
+          <div class="l-align-center">
+              <a class="cta" href="#">Launch site</a>
           </div>
 	  <?php endif; ?>
 	  

@@ -79,7 +79,7 @@
 	<ul class="action-links"><?php print render($action_links); ?></ul>
   <?php endif; ?>
 	
-	<header id="header" role="banner">
+	<header id="header" class="l-wrapper-reponsive l-color-invert" role="banner">
       
 	  <h1 id="site-name">
          <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" class="remove-link-style">Remix Design</a>
@@ -112,11 +112,11 @@
 
   </div><!-- /#main -->
   
-  <footer id="footer" class="clearfix <?php print $classes; ?>">	    
+  <footer id="footer" class="l-color-invert clearfix <?php print $classes; ?>">	    
 	    
 	    <?php print render($page['footer']); ?>
 	    
-	    <p class="small-print">&copy; Remix Creative Media LLC. All rights reserved.</p>
+	    <p class="l-small-print">&copy; Remix Creative Media LLC. All rights reserved.</p>
     
   </footer><!-- region__footer -->
 
