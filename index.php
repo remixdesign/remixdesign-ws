@@ -23,7 +23,7 @@ include("includes/top.php");
 	</button>
 	
 	<p>
-		Remix Design is an independent graphic design firm serving small and mid-size businesses in the New York metro area.
+		Remix Design is a digital design, technology and strategy firm, serving small and mid-size businesses in the New York metro area.
 	</p>
 
 </div>

@@ -1,19 +1,16 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Quality Caring";
-$gallerySite = "http://www.qualitycaring.org";
+$galleryName = "Archetypes";
+$gallerySite = "http://www.archetypes.com";
 
 $galleryNumber = 41;
 
-$galleryInfo_client = "Vidette Todaro-Francheshi";
+$galleryInfo_objective = "Re-imagine";
 
-$galleryInfo_objective = "Create a ... Web site for ... to promote ....";
-
-$galleryInfo_solution = "Wordpress was used as a CMS to allow the client to update performance information quickly and easily. ...";
+$galleryInfo_solution = "Responsive web design ... for the Drupal CMS.";
 
 $galleryInfo_services = array (
-			'web design',
 			'web development', 
 			'CMS development', 
 			);
