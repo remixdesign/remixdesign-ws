@@ -24,7 +24,7 @@
 	<strong><a href="<?php echo $dirPrefix; ?>blog/">blog</a></strong>	 
 	</p>
 
-	<p class="smallprint">&copy; 2004-2009 Remix Design / Leisl Schrader. All rights reserved.</p>
+	<p class="smallprint">&copy; Remix Creative Media LLC. All rights reserved.</p>
 
 </div>
 

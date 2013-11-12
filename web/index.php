@@ -9,6 +9,7 @@ include("../includes/top.php");
 
 ?>
 
+<!--
 <div class="section_info">
 
 	<h4><a name="01">sites</a></h4>
@@ -16,71 +17,254 @@ include("../includes/top.php");
 </div>
 
 <div class="section_content">
-
+-->	
 	<div class="section_thumb_container">
 	
-		<a href="40/"><img src="40/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="40/">Hemophilia Village</a>
+		<a href="archetypes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/archetypes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="archetypes/">Archetypes</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="13/"><img src="13/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="13/">Rock the Rabbit 2008</a>
+		<a href="citi-olympics/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-olympics/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-olympics/">Citi Olympics ... </a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="softsheen-carson/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/softsheen-carson/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="softsheen-carson/">SoftSheen Carson</a>
 		
 	</div>
 
 	<div class="section_thumb_container">
 	
-		<a href="5/"><img src="5/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="5/">How To Dye Hair</a>
+		<a href="immyounity-vaccines-com/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/immyounity-vaccines-com/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="immyounity-vaccines-com/">Vaccines.com / ImmYOUnity</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="citi-stories/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-stories/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-stories/">Citi Stories</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="citi-thankyou-rewards/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-thankyou-rewards/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-thankyou-rewards/">Citi ThankYou Rewards</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="digital-mistletoe/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/digital-mistletoe/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="digital-mistletoe/">Digital Mistletoe</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="garnier-bb-cream/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/garnier-bb-cream/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="garnier-bb-cream/">Garnier BB Cream: I Love My BB</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="lets-jam/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/lets-jam/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="lets-jam/">Let's Jam! by SoftSheen-Carson</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="citi-homeowner-support/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-homeowner-support/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-homeowner-support/">Citi Homeowner Support</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="yuka-kameda-tap-dancer/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/yuka-kameda-tap-dancer/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="yuka-kameda-tap-dancer/">Yuka Kameda, Tap Dancer</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="quality-caring/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/quality-caring/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="quality-caring/">Quality Caring</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="next-step-in-prevention/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/next-step-in-prevention/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="next-step-in-prevention/">Next Step in Prevention</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="utau-inu/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/utau-inu/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="utau-inu/">Utau Inu</a>
+		
+	</div>
+
+	<div class="section_thumb_container">
+	
+		<a href="hemophilia-village/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/hemophilia-village/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="hemophilia-village/">Hemophilia Village</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-rock-the-rabbit-08/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rock-the-rabbit-08/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-rock-the-rabbit-08/">Rock the Rabbit 2008</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="xyntha-11-reasons/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/xyntha-11-reasons/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="xyntha-11-reasons/">Xyntha's 11 Reasons</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="xyntha-interactive-panels/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/xyntha-interactive-panels/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="xyntha-interactive-panels/">Xyntha Interactive Panels</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="benefix-interactive-panels/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/benefix-interactive-panels/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="benefix-interactive-panels/">BeneFIX Interactive Panels</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-a-day-in-the-life/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-a-day-in-the-life/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-a-day-in-the-life/">Playboy's A Day in the Life of a Playmate</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-rock-nyc-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rock-nyc-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-rock-nyc-sweepstakes/">Playboy's Rock NYC Sweepstakes</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-get-lucky-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-get-lucky-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-get-lucky-sweepstakes/">Playboy's Get Lucky Sweepstakes</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-sex-tips-from-sex-and-the-city/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-sex-tips-from-sex-and-the-city/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-sex-tips-from-sex-and-the-city/">Sex Tips from Sex and the City</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-hitman-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-hitman-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-hitman-sweepstakes/">Hitman Sweepstakes</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="coheed-and-cambria-e-card/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/coheed-and-cambria-e-card/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="coheed-and-cambria-e-card/">Coheed and Cambria e-card</a>
+		
+	</div>	
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-rayman-raving-rabbids-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rayman-raving-rabbids-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-rayman-raving-rabbids-sweepstakes/">Rayman Raving Rabbids</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboy-simply-perfect-bunny-trail-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-simply-perfect-bunny-trail-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-simply-perfect-bunny-trail-sweepstakes/">Playboy's Simply Perfect Bunny Trail Sweepstakes</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="playboys-interns/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboys-interns/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboys-interns/">Playboy's Interns</a>
+		
+	</div>
+
+	<div class="section_thumb_container">
+	
+		<a href="how-to-dye-hair/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/how-to-dye-hair/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="how-to-dye-hair/">How To Dye Hair</a>
 		
 	</div>	
 
 	<div class="section_thumb_container">
 	
-		<a href="6/"><img src="6/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="6/">Coheed and Cambria</a>
+		<a href="coheed-and-cambria/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/coheed-and-cambria/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="coheed-and-cambria/">Coheed and Cambria</a>
 		
 	</div>	
 	
 	<div class="section_thumb_container">
 	
-		<a href="8/"><img src="8/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="8/">&lt;web remix&gt;</a>
+		<a href="web-remix/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/web-remix/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="web-remix/">&lt;web remix&gt;</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="4/"><img src="4/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="4/">Tompkins Square Records</a>
+		<a href="tompkins-square-records/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/tompkins-square-records/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="tompkins-square-records/">Tompkins Square Records</a>
 		
 	</div>
 	
 	
 	<div class="section_thumb_container">
 	
-		<a href="1/"><img src="1/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="1/">Trio Restaurant</a>
+		<a href="trio-restaurant/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/trio-restaurant/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="trio-restaurant/">Trio Restaurant</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="2/"><img src="2/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="2/">LL Dent Restaurant</a>
+		<a href="ll-dent-restaurant/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/ll-dent-restaurant/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="ll-dent-restaurant/">LL Dent Restaurant</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="11/"><img src="11/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="11/">Tune Genie</a>
+		<a href="tune-genie/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/tune-genie/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="tune-genie/">Tune Genie</a>
 		
 	</div>
-	
+
+<!--	
 </div>
 
 <div class="section_separator"></div>
@@ -93,108 +277,24 @@ include("../includes/top.php");
 </div>
 
 <div class="section_content">
+-->	
 	
 	<div class="section_thumb_container">
 	
-		<a href="39/"><img src="39/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="39/">Xyntha's 11 Reasons</a>
+		<a href="a-journey/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/a-journey/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="a-journey/">A Journey</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="38/"><img src="38/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="38/">Xyntha Interactive Panels</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="37/"><img src="37/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="37/">BeneFIX Interactive Panels</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="23/"><img src="23/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="23/">A Day in the Life</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="19/"><img src="19/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="19/">Playboy's Rock NYC Sweepstakes</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="20/"><img src="20/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="20/">Playboy's Get Lucky Sweepstakes</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="14/"><img src="14/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="14/">Sex Tips from Sex and the City</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="15/"><img src="15/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="15/">Hitman Sweepstakes</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="7/"><img src="7/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="7/">Coheed and Cambria e-card</a>
-		
-	</div>	
-	
-	<div class="section_thumb_container">
-	
-		<a href="34/"><img src="34/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="34/">Rayman Raving Rabbids</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="16/"><img src="16/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="16/">Playboy's Simply Perfect Bunny Trail Sweepstakes</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="24/"><img src="24/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="24/">Playboy's Interns</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="3/"><img src="3/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="3/">A Journey</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="9/"><img src="9/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="9/">Johnny Cash - Personal File</a>
+		<a href="johnny-cash-personal-file/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/johnny-cash-personal-file/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="johnny-cash-personal-file/">Johnny Cash - Personal File</a>
 		
 	</div>
 
+<!--
 </div>
-
-
 
 <div class="section_info">
 
@@ -203,30 +303,33 @@ include("../includes/top.php");
 </div>
 
 <div class="section_content">
+-->
 	
 	
 	<div class="section_thumb_container">
 	
-		<a href="30/"><img src="30/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="30/">Rayman Raving Rabbids</a>
+		<a href="playboy-u-rayman-raving-rabbids/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-rayman-raving-rabbids/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-u-rayman-raving-rabbids/">Rayman Raving Rabbids</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="28/"><img src="28/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="28/">Disaster Movie</a>
+		<a href="playboy-u-disaster-movie/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-disaster-movie/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-u-disaster-movie/">Disaster Movie</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="31/"><img src="31/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="31/">Afro Samurai</a>
+		<a href="playboy-u-afro-samurai/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-afro-samurai/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-u-afro-samurai/">Afro Samurai</a>
 		
 	</div>
 
+<!--
 </div>
+-->
 
 
 

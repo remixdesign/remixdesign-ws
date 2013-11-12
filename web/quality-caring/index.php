@@ -4,7 +4,7 @@ $sectionName = "web";
 $galleryName = "Quality Caring";
 $gallerySite = "http://www.qualitycaring.org";
 
-$galleryNumber = 41;
+$galleryNumber = 52;
 
 $galleryInfo_client = "Vidette Todaro-Francheshi";
 

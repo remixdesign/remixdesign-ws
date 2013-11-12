@@ -4,11 +4,11 @@
 
 ini_set('display_errors',1); 
 
-error_reporting(E_ALL);
+error_reporting (E_ALL & ~E_NOTICE);
 
 // global variables
 
-$siteRootPath = "/~sakura/remix-design/trunk/";
+$siteRootPath = "/remixdesign-ws";
 
 // global functions
 

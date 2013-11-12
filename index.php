@@ -1,7 +1,5 @@
 <?php
 
-include("includes/globals.php");
-
 $sectionName = "home";
 
 include("includes/top.php");
@@ -31,16 +29,16 @@ include("includes/top.php");
 <div class="section_separator"></div>
 <h2>featured <strong>works</strong></h2>
 
-<a href="<?php echo $siteRootPath; ?>web/13/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>web/13/thumbs/th_3.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
+<a href="<?php echo $siteRootPath; ?>web/playboy-rock-the-rabbit-08/" class="remove_link_style">
+<img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rock-the-rabbit-08/th_3.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
 </a>
 
-<a href="<?php echo $siteRootPath; ?>web/13/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>web/13/thumbs/th_5.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
+<a href="<?php echo $siteRootPath; ?>web/playboy-rock-the-rabbit-08/" class="remove_link_style">
+<img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rock-the-rabbit-08/th_5.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
 </a>
 
-<a href="<?php echo $siteRootPath; ?>web/13/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>web/13/thumbs/th_6.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
+<a href="<?php echo $siteRootPath; ?>web/playboy-rock-the-rabbit-08/" class="remove_link_style">
+<img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rock-the-rabbit-08/th_6.gif" class="home_thumb" alt="Playboy's Rock the Rabbit" />
 </a>
 
 <div class="home_info">
@@ -73,48 +71,6 @@ include("includes/top.php");
 <div class="section_separator"></div>
 <div class="section_separator"></div>
 
-<a href="<?php echo $siteRootPath; ?>print/18/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/18/thumbs/th_1.gif" class="home_thumb" alt="Playboy's Super Saturday Night" />
-</a>
-
-<a href="<?php echo $siteRootPath; ?>print/18/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/18/thumbs/th_2.gif" class="home_thumb" alt="Playboy's Super Saturday Night" />
-</a>
-
-<a href="<?php echo $siteRootPath; ?>print/18/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/18/thumbs/th_3.gif" class="home_thumb" alt="Playboy's Super Saturday Night" />
-</a>
-
-<div class="home_info">
-<h3 class="home"><a href="<?php echo $siteRootPath; ?>print/18/">Playboy's Super Saturday Night</a></h3>
-
-<p>Back when the economy was good, Playboy threw a lavish party every year to celebrate the Super Bowl. In 2008, the theme was 60s/70s vintage.</p>
-</div>
-
-<div class="section_separator"></div>
-<div class="section_separator"></div>
-
-
-<a href="<?php echo $siteRootPath; ?>print/17/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/17/thumbs/th_1.gif" class="home_thumb" alt="purple SKY Magazine" />
-</a>
-
-<a href="<?php echo $siteRootPath; ?>print/17/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/17/thumbs/th_3.gif" class="home_thumb" alt="purple SKY Magazine" />
-</a>
-
-<a href="<?php echo $siteRootPath; ?>print/17/" class="remove_link_style">
-<img src="<?php echo $siteRootPath; ?>print/17/thumbs/th_7.gif" class="home_thumb" alt="purple SKY Magazine" />
-</a>
-
-<div class="home_info">
-<h3 class="home"><a href="<?php echo $siteRootPath; ?>print/17/">purple SKY Magazine</a></h3>
-
-<p>J-rock is non traditional in many ways. It's not traditional to Japanese culture, and non-English music isn't traditional in the US. The audience in both countries is mostly youth. So, I got to break a whole slew of editorial traditions.</p>
-</div>
-
-<div class="section_separator"></div>
-<div class="section_separator"></div>
 
 <h2>from the <strong>blog</strong></h2>
 

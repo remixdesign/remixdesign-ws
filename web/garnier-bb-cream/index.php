@@ -1,21 +1,20 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Yuka Kameda, Tap Dancer";
-$gallerySite = "http://www.yukakameda.com";
+$galleryName = "Garnier BB Cream - I Love My BB";
+$gallerySite = "";
 
-$galleryNumber = 41;
+$galleryNumber = 51;
 
-$galleryInfo_client = "Yuka Kameda";
+$galleryInfo_client = "L'oreal";
 
-$galleryInfo_objective = "Create a bi-lingual Web site for a Japanese-American tap dancer to promote upcoming performances.";
+$galleryInfo_objective = "";
 
-$galleryInfo_solution = "Wordpress was used as a CMS to allow the client to update performance information quickly and easily. Dynamic language switching was built on the back-end.";
+$galleryInfo_solution = "";
 
 $galleryInfo_services = array (
-			'web design',
 			'web development', 
-			'CMS development', 
+			'social media development', 
 			);
 
 // $galleryInfo_results = "";

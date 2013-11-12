@@ -4,7 +4,7 @@ $sectionName = "web";
 $galleryName = "Archetypes";
 $gallerySite = "http://www.archetypes.com";
 
-$galleryNumber = 41;
+$galleryNumber = 53;
 
 $galleryInfo_objective = "Re-imagine";
 

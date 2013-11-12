@@ -1,21 +1,19 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Yuka Kameda, Tap Dancer";
-$gallerySite = "http://www.yukakameda.com";
+$galleryName = "Let's Jam!";
+$gallerySite = "?";
 
-$galleryNumber = 41;
+$galleryNumber = 48;
 
-$galleryInfo_client = "Yuka Kameda";
+$galleryInfo_client = "SoftSheen-Carson";
 
-$galleryInfo_objective = "Create a bi-lingual Web site for a Japanese-American tap dancer to promote upcoming performances.";
+$galleryInfo_objective = "";
 
-$galleryInfo_solution = "Wordpress was used as a CMS to allow the client to update performance information quickly and easily. Dynamic language switching was built on the back-end.";
+$galleryInfo_solution = "";
 
 $galleryInfo_services = array (
-			'web design',
 			'web development', 
-			'CMS development', 
 			);
 
 // $galleryInfo_results = "";

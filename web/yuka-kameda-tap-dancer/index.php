@@ -4,7 +4,7 @@ $sectionName = "web";
 $galleryName = "Yuka Kameda, Tap Dancer";
 $gallerySite = "http://www.yukakameda.com";
 
-$galleryNumber = 41;
+$galleryNumber = 42;
 
 $galleryInfo_client = "Yuka Kameda";
 
@@ -16,7 +16,7 @@ $galleryInfo_services = array (
 			'web design',
 			'web development', 
 			'CMS development', 
-			);
+);
 
 // $galleryInfo_results = "";
 
