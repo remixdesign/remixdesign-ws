@@ -19,29 +19,29 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="17/"><img src="17/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="17/">purple SKY Magazine</a>
+		<a href="purple-sky-magazine/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/purple-sky-magazine/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="purple-sky-magazine/">purple SKY Magazine</a>
 		
 	</div>
 
 	<div class="section_thumb_container">
 	
-		<a href="16/"><img src="16/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="16/">Smart Magazine</a>
+		<a href="smart-magazine/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/smart-magazine/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="smart-magazine/">Smart Magazine</a>
 		
 	</div>
 
 	<div class="section_thumb_container">
 	
-		<a href="7/"><img src="7/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="7/">Dracula</a>
+		<a href="dracula/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/dracula/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="dracula/">Dracula</a>
 		
 	</div>
 
 	<div class="section_thumb_container">
 	
-		<a href="2/"><img src="2/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="2/">Order in the Court</a>
+		<a href="order-in-the-court/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/order-in-the-court/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="order-in-the-court/">Order in the Court</a>
 		
 	</div>
 	
@@ -60,50 +60,43 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="18/"><img src="18/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="18/">Playboy's Super Saturday Night '08</a>
+		<a href="playboy-super-saturday-night-08/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/playboy-super-saturday-night-08/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="playboy-super-saturday-night-08/">Playboy's Super Saturday Night '08</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="4/"><img src="4/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="4/">ADC Spring Paper Expo</a>
+		<a href="adc-spring-paper-expo/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/adc-spring-paper-expo/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="adc-spring-paper-expo/">ADC Spring Paper Expo</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="1/"><img src="1/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="1/">Oedipus Rex</a>
+		<a href="oedipus-rex/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/oedipus-rex/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="oedipus-rex/">Oedipus Rex</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="3/"><img src="3/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="3/">Hamlet</a>
+		<a href="hamlet/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/hamlet/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="hamlet/">Hamlet</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="11/"><img src="11/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="11/">Un-Christmas Cards</a>
+		<a href="un-christmas-cards/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/un-christmas-cards/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="un-christmas-cards/">Un-Christmas Cards</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="15/"><img src="15/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="15/">Kanji</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="13/"><img src="13/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="13/">Dollar Bill</a>
+		<a href="kanji/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/kanji/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="kanji/">Kanji</a>
 		
 	</div>
 
@@ -122,36 +115,36 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="6/"><img src="6/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="6/">Withering to death.</a>
+		<a href="withering-to-death/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/withering-to-death/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="withering-to-death/">Withering to death.</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="8/"><img src="8/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="8/">Penis Poetry</a>
+		<a href="penis-poetry/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/penis-poetry/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="penis-poetry/">Penis Poetry</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="10/"><img src="10/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="10/">Iconoclasm</a>
+		<a href="iconoclasm/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/iconoclasm/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="iconoclasm/">Iconoclasm</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="9/"><img src="9/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="9/">jitteries</a>
+		<a href="jitteries/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/jitteries/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="jitteries/">jitteries</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="12/"><img src="12/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="12/">Anti-Soap</a>
+		<a href="anti-soap/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/anti-soap/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="anti-soap/">Anti-Soap</a>
 		
 	</div>
 	
@@ -170,15 +163,15 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="14/"><img src="14/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="14/">Rock Survival Kit</a>
+		<a href="rock-survival-kit/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/rock-survival-kit/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="rock-survival-kit/">Rock Survival Kit</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="5/"><img src="5/thumbs/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="5/">Pit Shirts</a>
+		<a href="pit-shirts/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/print/pit-shirts/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="pit-shirts/">Pit Shirts</a>
 		
 	</div>
 	

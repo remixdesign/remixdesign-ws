@@ -77,10 +77,31 @@ else { ?>
 	
 	<div id="subhead_content">
 
-		<img src="<?php echo $dirPrefix; ?>images/subhead_<?php echo $sectionName_forFilename; ?>.gif" alt="<?php echo $sectionName; ?>" />
+		<h1>
+			<?php
+				if ($sectionName == 'web' || $sectionName == 'identity' || $sectionName == 'print') {
+					echo '<span>portfolio</span> ';
+				}
+			  echo $sectionName; 
+			?>
+		</h1>
 		
-		<?php include("subnav_" . $sectionName_forFilename . ".php"); ?>
+		<!--<img src="<?php echo $dirPrefix; ?>images/subhead_<?php echo _forFilename; ?>.gif" alt="<?php echo $sectionName; ?>" />-->
+		
+		<div id="subnav">
 	
+			<?php
+			
+			if ($dirLevel == 2 || $dirLevel == 3) {	
+				echo '<strong><a href="../">view all</a></strong>';
+			}
+			
+			include("subnav_" . $sectionName_forFilename . ".php");
+			
+			?>
+			
+		</div>
+		
 	</div>
 
 </div>

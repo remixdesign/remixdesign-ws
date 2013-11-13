@@ -2,8 +2,7 @@
 
 $sectionName = "identity";
 $galleryName = "13 Brand";
-
-// $galleryInfo_client = "";
+$gallerySlug = "13-brand";
 
 $galleryInfo_objective = "An angsty, rebellious clothing brand that's really good on the inside, just acting out to get attention. It had a bad childhood, misunderstood by its parents, Punk and Prep. It struggles to carve out its own identity in a small boutique on St. Marks's Place.";
 
@@ -12,10 +11,8 @@ $galleryInfo_solution = "The feeling of punk aesthetics was smoothed into a clea
 $galleryInfo_services = array (
 			'logo design', 
 			'stationery design', 
-			'site design', 
+			'web design', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 6;
