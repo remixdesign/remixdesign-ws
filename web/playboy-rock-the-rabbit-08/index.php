@@ -1,10 +1,8 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Rock the Rabbit 2008";
-// $gallerySite = "site/";
-
-$galleryNumber = 13;
+$galleryName = "Playboy's Rock the Rabbit 2008";
+$gallerySlug = "playboy-rock-the-rabbit-08";
 
 $galleryInfo_client = "Playboy Enterprises";
 $galleryCopyright = "&copy; 2008 Playboy Enterprises Inc.";
@@ -14,13 +12,9 @@ $galleryInfo_objective = "Where would rock and roll be without hot chicks? Playb
 $galleryInfo_solution = "Each band profile page was unique to the band, but also connected to the campaign as a whole. Designs as a whole were youthful, colorful, and grungy.";
 
 $galleryInfo_services = array (
-			'Flash video integration', 
-			'Flash programming', 
-			'site design', 
-			'site coding', 
+			'web design', 
+			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 10;

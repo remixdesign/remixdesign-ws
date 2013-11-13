@@ -2,9 +2,7 @@
 
 $sectionName = "web";
 $galleryName = "Garnier BB Cream - I Love My BB";
-$gallerySite = "";
-
-$galleryNumber = 51;
+$gallerySite = "garnier-bb-cream";
 
 $galleryInfo_client = "L'oreal";
 
@@ -16,8 +14,6 @@ $galleryInfo_services = array (
 			'web development', 
 			'social media development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

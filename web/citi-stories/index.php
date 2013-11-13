@@ -2,9 +2,7 @@
 
 $sectionName = "web";
 $galleryName = "Citi Stories";
-$gallerySite = "?";
-
-$galleryNumber = 45;
+$gallerySlug = "citi-stories";
 
 $galleryInfo_client = "Citigroup";
 

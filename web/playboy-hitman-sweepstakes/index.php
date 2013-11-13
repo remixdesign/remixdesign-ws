@@ -1,10 +1,9 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Hitman Sweepstakes";
+$galleryName = "Playboy's Hitman Sweepstakes";
+$gallerySlug = "playboy-hitman-sweepstakes";
 $gallerySite = "site/";
-
-$galleryNumber = 15;
 
 $galleryInfo_client = "Playboy Enterprises / Twentieth Century Fox Home Entertainment";
 $galleryCopyright = "&copy; 2008 Playboy Enterprises Inc.; &copy; Twentieth Century Fox Home Entertainment";
@@ -14,12 +13,10 @@ $galleryInfo_objective = "Create and advertise a co-branded sweepstakes, promoti
 $galleryInfo_solution = "The campaign included sweepstakes entry site and three animated banners. An interactive poll, mimicking the size and placement of a vertical banner, provided extra integration.";
 
 $galleryInfo_services = array (
-			'Flash animation', 
-			'site design',
-			'site coding',
+			'web design', 
+			'web development',
+			'animation',
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 3;

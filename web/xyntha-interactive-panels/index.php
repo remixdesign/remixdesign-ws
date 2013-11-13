@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Xyntha Interactive Panels";
+$gallerySlug = "xyntha-interactive-panels";
 $gallerySite = "site/";
-
-$galleryNumber = 38;
 
 $galleryInfo_client = "Pfizer Hemophilia";
 $galleryCopyright = "&copy; JUICE Pharma Worldwide; &copy; Pfizer";
@@ -14,10 +13,8 @@ $galleryInfo_objective = "Create an interactive presentation for use on 40-inch 
 $galleryInfo_solution = "ActionScript, rather than timeline animation, was used to control all functionality, including pop-up video players.";
 
 $galleryInfo_services = array (
-			'Flash/ActionScript development',
+			'web development',
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 3;

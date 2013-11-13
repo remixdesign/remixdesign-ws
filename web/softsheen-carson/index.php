@@ -2,19 +2,16 @@
 
 $sectionName = "web";
 $galleryName = "SoftSheen-Carson";
+$gallerySlug = "softsheen-carson";
 $gallerySite = "http://www.softsheen-carson.com/";
 
-$galleryNumber = 49;
+$galleryInfo_objective = "Update the web site of a household name in hair care products.";
 
-$galleryInfo_objective = "";
-
-$galleryInfo_solution = "";
+$galleryInfo_solution = "youthful, slick look";
 
 $galleryInfo_services = array (
 			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

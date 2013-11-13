@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Digital Mistletoe";
+$gallerySlug = "digital-mistletoe";
 $gallerySite = "http://www.digitalmistletoe.com";
-
-$galleryNumber = 50;
 
 $galleryInfo_client = "Publicis Kaplan Thaler";
 
@@ -15,8 +14,6 @@ $galleryInfo_solution = "...random phrase generator, custom, shareable on social
 $galleryInfo_services = array (
 			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

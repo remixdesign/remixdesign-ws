@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Xyntha's 11 Reasons";
+$gallerySlug = "xyntha-11-reasons";
 $gallerySite = "site/";
-
-$galleryNumber = 39;
 
 $galleryInfo_client = "Pfizer Hemophilia";
 $galleryCopyright = "&copy; JUICE Pharma Worldwide; &copy; Pfizer";
@@ -14,10 +13,8 @@ $galleryInfo_objective = "Create an animated panel to introduce the new \"11 Rea
 $galleryInfo_solution = "ActionScript, rather than timeline animation, was used to smoothly control the timed rotation of panels and pause/play action.";
 
 $galleryInfo_services = array (
-			'Flash/ActionScript development', 
+			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 3;

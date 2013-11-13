@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Playboy's Rock NYC Sweepstakes";
+$gallerySlug = "playboy-rock-nyc-sweepstakes";
 $gallerySite = "site/";
-
-$galleryNumber = 19;
 
 $galleryInfo_client = "Playboy Enterprises / g&ouml;t2b";
 $galleryCopyright = "&copy; Playboy Enterprises Inc.; &copy; g&ouml;t2b";
@@ -14,12 +13,12 @@ $galleryInfo_objective = "Design a sponsored sweepstakes website, along with a s
 $galleryInfo_solution = "Since the sponsor product (hair gel) and musical group (with a cartoon wold for a mascot) are both young adult oriented, the look is youthful, colorful, rough, cheeky and comical.";
 
 $galleryInfo_services = array (
-			'Flash animation', 
-			'site design', 
-			'site coding', 
+			'web design', 
+			'web development',
+			'animation', 
 			);
 
-$galleryInfo_results = "Appropriately, the winners of this sweepstakes were from Idaho.";
+$galleryInfo_results = "Appropriately, the winners of this sweepstakes were a cute couple from Idaho.";
 
 $galleryThumbs = true;
 $maxPics = 2;

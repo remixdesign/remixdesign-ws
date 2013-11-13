@@ -9,7 +9,7 @@
 				echo '<a href="' . $gallerySite . '">';
 			}
 					
-			echo '<img src="images/';
+			echo '<img src="' . $siteRootPath . '/_img/portfolio/' . $sectionName . '/' . $gallerySlug . '/';
 			if (isset($_REQUEST['img']))	{
 				echo $_REQUEST['img'];
 			}
@@ -45,7 +45,7 @@
 					for ($numberOfPics = 1; $numberOfPics <= $maxPics; $numberOfPics++) {
 					
 					echo '<a href="?img=' . $numberOfPics . '">
-					<img src="thumbs/th_' . $numberOfPics . '.gif" class="gallery_thumb" alt="' . $numberOfPics . '" /></a>
+					<img src="' . $siteRootPath . '/_img/portfolio/' . $sectionName . '/' . $gallerySlug .'/th_' . $numberOfPics . '.gif" class="gallery_thumb" alt="' . $numberOfPics . '" /></a>
 					
 					';
 					

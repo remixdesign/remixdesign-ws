@@ -1,10 +1,9 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Sex Tips from<br />Sex and the City";
+$galleryName = "Playboy's Sex Tips from Sex and the City";
+$gallerySlug = "playboy-sex-tips-from-sex-and-the-city";
 $gallerySite = "site/";
-
-$galleryNumber = 14;
 
 $galleryInfo_client = "Playboy Enterprises / HBO";
 $galleryCopyright = "&copy; 2008 Playboy Enterprises Inc.; &copy; HBO";
@@ -14,10 +13,10 @@ $galleryInfo_objective = "Men can learn a lot from observing women's uncensored 
 $galleryInfo_solution = "Metaphorical stock imagery was used to allude to the content of the tips, along with official show artwork. Never before had a dirty mind come in handy at work.";
 
 $galleryInfo_services = array (
-			'Flash animation', 
+			'web design', 
+			'web development',
+			'animation', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = false;
 $maxPics = 1;

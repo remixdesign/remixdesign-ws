@@ -2,9 +2,7 @@
 
 $sectionName = "web";
 $galleryName = "Next Step in Prevention";
-$gallerySite = "";
-
-$galleryNumber = ;
+$gallerySlug = "next-step-in-prevention";
 
 $galleryInfo_client = "Merck";
 
@@ -16,8 +14,6 @@ $galleryInfo_services = array (
 			'web development', 
 			'social media development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

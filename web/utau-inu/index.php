@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Utau Inu";
+$gallerySlug = "utau-inu";
 $gallerySite = "http://www.utau-inu.com";
-
-$galleryNumber = 41;
 
 $galleryInfo_client = "Brian Stewart";
 
@@ -17,8 +16,6 @@ $galleryInfo_services = array (
 			'web development', 
 			'CMS development', 
 );
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

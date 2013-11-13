@@ -2,15 +2,13 @@
 
 $sectionName = "web";
 $galleryName = "Citi ThankYou Rewards";
-$gallerySite = "";
-
-$galleryNumber = 44;
+$gallerySlug = "citi-thankyou-rewards";
 
 $galleryInfo_client = "Citigroup";
 
 $galleryInfo_objective = "";
 
-$galleryInfo_solution = "";
+$galleryInfo_solution = "Various one-pagers were used in conjuction with the primary ThankYou program Facebook app";
 
 $galleryInfo_services = array (
 			'web development', 

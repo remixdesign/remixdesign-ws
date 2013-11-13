@@ -2,9 +2,9 @@
 
 $sectionName = "web";
 $galleryName = "BeneFIX Interactive Panels";
+$gallerySlug = "benefix-interactive-panels";
 $gallerySite = "site/";
 
-$galleryNumber = 37;
 
 $galleryInfo_client = "Pfizer Hemophilia";
 $galleryCopyright = "&copy; JUICE Pharma Worldwide; &copy; Pfizer";
@@ -14,7 +14,7 @@ $galleryInfo_objective = "Create an interactive presentation for use on 40-inch 
 $galleryInfo_solution = "ActionScript, rather than timeline animation, was used to control all functionality, including pop-ups and chart animations.";
 
 $galleryInfo_services = array (
-			'Flash/ActionScript development',
+			'web development',
 			);
 
 // $galleryInfo_results = "";

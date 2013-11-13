@@ -2,11 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Yuka Kameda, Tap Dancer";
+$gallerySlug = "yuka-kameda-tap-dancer";
 $gallerySite = "http://www.yukakameda.com";
-
-$galleryNumber = 42;
-
-$galleryInfo_client = "Yuka Kameda";
 
 $galleryInfo_objective = "Create a bi-lingual Web site for a Japanese-American tap dancer to promote upcoming performances.";
 
@@ -17,8 +14,6 @@ $galleryInfo_services = array (
 			'web development', 
 			'CMS development', 
 );
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

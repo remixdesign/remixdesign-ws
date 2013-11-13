@@ -9,15 +9,6 @@ include("../includes/top.php");
 
 ?>
 
-<!--
-<div class="section_info">
-
-	<h4><a name="01">sites</a></h4>
-
-</div>
-
-<div class="section_content">
--->	
 	<div class="section_thumb_container">
 	
 		<a href="archetypes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/archetypes/th_1.gif" class="section_thumb" alt="" /></a>
@@ -28,7 +19,7 @@ include("../includes/top.php");
 	<div class="section_thumb_container">
 	
 		<a href="citi-olympics/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-olympics/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="citi-olympics/">Citi Olympics ... </a>
+		<a href="citi-olympics/">Citi Olympics London 2012 - Every Step of the Way</a>
 		
 	</div>
 	
@@ -70,7 +61,7 @@ include("../includes/top.php");
 	<div class="section_thumb_container">
 	
 		<a href="garnier-bb-cream/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/garnier-bb-cream/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="garnier-bb-cream/">Garnier BB Cream: I Love My BB</a>
+		<a href="garnier-bb-cream/">Garnier BB Cream - I Love My BB</a>
 		
 	</div>
 	
@@ -167,22 +158,15 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="playboy-get-lucky-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-get-lucky-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-get-lucky-sweepstakes/">Playboy's Get Lucky Sweepstakes</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
 		<a href="playboy-sex-tips-from-sex-and-the-city/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-sex-tips-from-sex-and-the-city/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-sex-tips-from-sex-and-the-city/">Sex Tips from Sex and the City</a>
+		<a href="playboy-sex-tips-from-sex-and-the-city/">Playboy's Sex Tips from Sex and the City</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
 		<a href="playboy-hitman-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-hitman-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-hitman-sweepstakes/">Hitman Sweepstakes</a>
+		<a href="playboy-hitman-sweepstakes/">Playboy's Hitman Sweepstakes</a>
 		
 	</div>
 	
@@ -196,7 +180,7 @@ include("../includes/top.php");
 	<div class="section_thumb_container">
 	
 		<a href="playboy-rayman-raving-rabbids-sweepstakes/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-rayman-raving-rabbids-sweepstakes/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-rayman-raving-rabbids-sweepstakes/">Rayman Raving Rabbids</a>
+		<a href="playboy-rayman-raving-rabbids-sweepstakes/">Playboy Rayman Raving Rabbids Sweepstakes</a>
 		
 	</div>
 	
@@ -228,27 +212,6 @@ include("../includes/top.php");
 		
 	</div>	
 	
-	<div class="section_thumb_container">
-	
-		<a href="web-remix/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/web-remix/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="web-remix/">&lt;web remix&gt;</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="tompkins-square-records/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/tompkins-square-records/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="tompkins-square-records/">Tompkins Square Records</a>
-		
-	</div>
-	
-	
-	<div class="section_thumb_container">
-	
-		<a href="trio-restaurant/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/trio-restaurant/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="trio-restaurant/">Trio Restaurant</a>
-		
-	</div>
 	
 	<div class="section_thumb_container">
 	
@@ -257,27 +220,6 @@ include("../includes/top.php");
 		
 	</div>
 	
-	<div class="section_thumb_container">
-	
-		<a href="tune-genie/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/tune-genie/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="tune-genie/">Tune Genie</a>
-		
-	</div>
-
-<!--	
-</div>
-
-<div class="section_separator"></div>
-
-
-<div class="section_info">
-
-	<h4><a name="02">Flash</a></h4>
-
-</div>
-
-<div class="section_content">
--->	
 	
 	<div class="section_thumb_container">
 	
@@ -292,48 +234,28 @@ include("../includes/top.php");
 		<a href="johnny-cash-personal-file/">Johnny Cash - Personal File</a>
 		
 	</div>
-
-<!--
-</div>
-
-<div class="section_info">
-
-	<h4><a name="03">skins</a></h4>
-
-</div>
-
-<div class="section_content">
--->
-	
 	
 	<div class="section_thumb_container">
 	
-		<a href="playboy-u-rayman-raving-rabbids/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-rayman-raving-rabbids/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-u-rayman-raving-rabbids/">Rayman Raving Rabbids</a>
+		<a href="web-remix/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/web-remix/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="web-remix/">&lt;web remix&gt;</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="playboy-u-disaster-movie/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-disaster-movie/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-u-disaster-movie/">Disaster Movie</a>
+		<a href="tompkins-square-records/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/tompkins-square-records/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="tompkins-square-records/">Tompkins Square Records</a>
 		
 	</div>
 	
 	<div class="section_thumb_container">
 	
-		<a href="playboy-u-afro-samurai/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-u-afro-samurai/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="playboy-u-afro-samurai/">Afro Samurai</a>
+		<a href="trio-restaurant/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/trio-restaurant/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="trio-restaurant/">Trio Restaurant</a>
 		
 	</div>
-
-<!--
-</div>
--->
-
-
-
-
+	
 <?php
 include("../includes/bottom.php");
 ?>

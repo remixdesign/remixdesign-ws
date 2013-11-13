@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Playboy's Interns";
+$gallerySlug = "playboys-interns";
 $gallerySite = "site/";
-
-$galleryNumber = 24;
 
 $galleryInfo_client = "Playboy Enterprises";
 $galleryCopyright = "&copy; Playboy Enterprises Inc.";
@@ -14,13 +13,9 @@ $galleryInfo_objective = "Teaser site for a new \"reality\" series featuring thr
 $galleryInfo_solution = "We used a realistic collage of desk elements, to evoke office humor, and easily add subtle sponsor messages. Most of the elements were photographed in-house.";
 
 $galleryInfo_services = array (
-			'Flash video integration', 
-			'site design', 
-			'site coding', 
-			'photography',
+			'web design', 
+			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 3;

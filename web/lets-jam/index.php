@@ -1,10 +1,8 @@
 <?php
 
 $sectionName = "web";
-$galleryName = "Let's Jam!";
-$gallerySite = "?";
-
-$galleryNumber = 48;
+$galleryName = "Let's Jam! by SoftSheen-Carson";
+$gallerySlug = "lets-jam";
 
 $galleryInfo_client = "SoftSheen-Carson";
 
@@ -15,8 +13,6 @@ $galleryInfo_solution = "";
 $galleryInfo_services = array (
 			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;

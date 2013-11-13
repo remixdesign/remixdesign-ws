@@ -115,7 +115,7 @@ include("../includes/top.php");
 </h4>
 
 <p>
-	Working side by side our creative and technology teams are specialists in user-centered digital strategy. We bring the same expertise for digital to the big picture of business.
+	Our work isn't over when your site goes live. We bring the same expertise for digital to the big picture of business.
 </p>
 
 <p>

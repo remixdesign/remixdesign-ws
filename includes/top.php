@@ -1,6 +1,6 @@
 <?php
 
-include("../includes/globals.php");
+include($dirPrefix . "includes/globals.php");
 
 $sectionName_forFilename = str_replace(" ", "-", $sectionName);
 

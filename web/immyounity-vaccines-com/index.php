@@ -2,9 +2,8 @@
 
 $sectionName = "web";
 $galleryName = "Vaccines.com / ImmYOUnity";
+$gallerySlug = "immyounity-vaccines-com";
 $gallerySite = "http://www.vaccines.com";
-
-$galleryNumber = 43;
 
 $galleryInfo_client = "Sanofi";
 
@@ -15,8 +14,6 @@ $galleryInfo_solution = "";
 $galleryInfo_services = array (
 			'web development', 
 			);
-
-// $galleryInfo_results = "";
 
 $galleryThumbs = true;
 $maxPics = 4;
