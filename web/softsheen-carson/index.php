@@ -5,16 +5,16 @@ $galleryName = "SoftSheen-Carson";
 $gallerySlug = "softsheen-carson";
 $gallerySite = "http://www.softsheen-carson.com/";
 
-$galleryInfo_objective = "Update the web site of a household name in hair care products.";
+$galleryInfo_objective = "Give a fresh new look to a household name in hair care products.";
 
-$galleryInfo_solution = "youthful, slick look";
+$galleryInfo_solution = "The update is youthful, slick and animated. Multi-level flyout navigation organizes numerous products and categories.";
 
 $galleryInfo_services = array (
 			'web development', 
 			);
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 7;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

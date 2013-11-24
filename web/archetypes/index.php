@@ -5,19 +5,17 @@ $galleryName = "Archetypes";
 $gallerySlug = "archetypes";
 $gallerySite = "http://www.archetypes.com";
 
-$galleryInfo_objective = "Re-imagine";
+$galleryInfo_objective = "Re-launch the Archetypes content, community and commerce platform.";
 
-$galleryInfo_solution = "Responsive web design ... for the Drupal CMS.";
+$galleryInfo_solution = "Responsive, mobile-first design and architecture was built on top of the Drupal CMS. A CSS preprocessor framework let us work in a grid system and CSS3 library. An icon font for all flat-color images speeds up site performance.";
 
 $galleryInfo_services = array (
 			'web development', 
 			'CMS development', 
 			);
 
-// $galleryInfo_results = "";
-
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 10;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

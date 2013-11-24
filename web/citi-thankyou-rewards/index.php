@@ -6,9 +6,9 @@ $gallerySlug = "citi-thankyou-rewards";
 
 $galleryInfo_client = "Citigroup";
 
-$galleryInfo_objective = "";
+$galleryInfo_objective = "Promote new Citi campaigns on the ThankYou Rewards program Facebook app in a timely and efficient manner.";
 
-$galleryInfo_solution = "Various one-pagers were used in conjuction with the primary ThankYou program Facebook app";
+$galleryInfo_solution = "Various one-pagers and modules were used in conjuction with the primary Facebook app, without requiring a total rebuild.";
 
 $galleryInfo_services = array (
 			'web development', 
@@ -18,7 +18,7 @@ $galleryInfo_services = array (
 // $galleryInfo_results = "";
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 3;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

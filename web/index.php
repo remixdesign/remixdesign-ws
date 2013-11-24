@@ -19,7 +19,7 @@ include("../includes/top.php");
 	<div class="section_thumb_container">
 	
 		<a href="citi-olympics/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-olympics/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="citi-olympics/">Citi Olympics London 2012 - Every Step of the Way</a>
+		<a href="citi-olympics/">Citi Olympics 2012 - Every Step of the Way</a>
 		
 	</div>
 	
