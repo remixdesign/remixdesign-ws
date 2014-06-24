@@ -7,9 +7,9 @@ $gallerySite = "http://www.digitalmistletoe.com";
 
 $galleryInfo_client = "Publicis Kaplan Thaler";
 
-$galleryInfo_objective = "Develop a unique and share-able holiday ";
+$galleryInfo_objective = "Create a romantic, unique and share-able holiday \"greeting card\".";
 
-$galleryInfo_solution = "...random phrase generator, custom, shareable on social media";
+$galleryInfo_solution = "The app loops between random pre-set phrases, and allows users to enter custom phrases, both shareable on social media.";
 
 $galleryInfo_services = array (
 			'web development', 

@@ -6,16 +6,16 @@ $gallerySlug = "lets-jam";
 
 $galleryInfo_client = "SoftSheen-Carson";
 
-$galleryInfo_objective = "";
+$galleryInfo_objective = "Roll out the look of the softsheen-carson.com redesign to its individual products.";
 
-$galleryInfo_solution = "";
+$galleryInfo_solution = "With a similar look and feel to the main brand site, the product site showcases product varieties and styling tutorials.";
 
 $galleryInfo_services = array (
 			'web development', 
 			);
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 3;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

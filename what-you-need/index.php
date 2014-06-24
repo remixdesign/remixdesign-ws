@@ -9,8 +9,9 @@ include("../includes/top.php");
 
 ?>
 
+“Remix" is a concept of "change" not in the sense of complete reinvention, but moving gradually in new directions. It means thought-out experimentation guided by central concept and goal. It means brainstorming endless new ideas, and seeing which ones work through iterative improvements. It means that change doesn’t end when the project ends, but that it keeps moving forward as quickly as does the pace of technology.
 
-<p>Remix Design is an independent design firm serving small and mid-size businesses in the New York metro area. We create web, print, and and brand identity materials to form a well-rounded marketing suite. Our expertise in both aesthetics and technology delivers a quality, comprehensive package from just one source.</p>
+Our goal is to lead our clients in toward purposeful change, and strive to always deliver something surprisingly different - whether it be software, designs, strategies, or simply new ideas.
 
 <img src="<?php echo $dirPrefix; ?>images/body_what-you-need_01.gif" width="272" height="280" class="right" alt="" />
 

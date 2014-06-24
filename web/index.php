@@ -22,13 +22,6 @@ include("../includes/top.php");
 		<a href="citi-olympics/">Citi Olympics 2012 - Every Step of the Way</a>
 		
 	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="softsheen-carson/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/softsheen-carson/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="softsheen-carson/">SoftSheen Carson</a>
-		
-	</div>
 
 	<div class="section_thumb_container">
 	
@@ -39,39 +32,25 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="citi-stories/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-stories/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="citi-stories/">Citi Stories</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="citi-thankyou-rewards/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-thankyou-rewards/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="citi-thankyou-rewards/">Citi ThankYou Rewards</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
 		<a href="digital-mistletoe/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/digital-mistletoe/th_1.gif" class="section_thumb" alt="" /></a>
 		<a href="digital-mistletoe/">Digital Mistletoe</a>
 		
 	</div>
+			
+	<div class="section_thumb_container">
 	
+		<a href="softsheen-carson/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/softsheen-carson/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="softsheen-carson/">SoftSheen Carson</a>
+		
+	</div>
+
 	<div class="section_thumb_container">
 	
 		<a href="garnier-bb-cream/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/garnier-bb-cream/th_1.gif" class="section_thumb" alt="" /></a>
 		<a href="garnier-bb-cream/">Garnier BB Cream - I Love My BB</a>
 		
 	</div>
-	
-	<div class="section_thumb_container">
-	
-		<a href="lets-jam/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/lets-jam/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="lets-jam/">Let's Jam! by SoftSheen-Carson</a>
 		
-	</div>
-	
 	<div class="section_thumb_container">
 	
 		<a href="citi-homeowner-support/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-homeowner-support/th_1.gif" class="section_thumb" alt="" /></a>
@@ -104,6 +83,27 @@ include("../includes/top.php");
 	
 		<a href="utau-inu/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/utau-inu/th_1.gif" class="section_thumb" alt="" /></a>
 		<a href="utau-inu/">Utau Inu</a>
+		
+	</div>
+
+	<div class="section_thumb_container">
+	
+		<a href="citi-stories/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-stories/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-stories/">Citi Stories</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="citi-thankyou-rewards/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/citi-thankyou-rewards/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="citi-thankyou-rewards/">Citi ThankYou Rewards</a>
+		
+	</div>
+
+	<div class="section_thumb_container">
+	
+		<a href="lets-jam/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/lets-jam/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="lets-jam/">Let's Jam! by SoftSheen-Carson</a>
 		
 	</div>
 

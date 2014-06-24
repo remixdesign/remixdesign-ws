@@ -16,7 +16,7 @@ $galleryInfo_services = array (
 );
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 3;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

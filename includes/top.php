@@ -16,9 +16,9 @@ if (isset($galleryName)) {
 	$galleryName_forTitle = str_replace("<br />", "&nbsp;", $galleryName);	
 	echo $galleryName_forTitle . "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";	
 	
-} ?>Remix Design &nbsp;&nbsp;&nbsp; New York City graphic design firm &nbsp;&nbsp;&nbsp; freelance web print idendity logo branding designer NYC</title>
+} ?>Remix Design, Web and mobile design, development, branding, marketing, and strategy for entrepreneurs, startups, and small businesses in New York City</title>
 
-<meta name="description" content="Remix Design is an independent graphic design firm serving small and mid-size businesses in the New York metro area." />
+<meta name="description" content="Remix Design does Web and mobile design, development, branding, marketing, and strategy for entrepreneurs, startups, and small, growing businesses. Headquartered in New York City." />
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 
@@ -85,9 +85,7 @@ else { ?>
 			  echo $sectionName; 
 			?>
 		</h1>
-		
-		<!--<img src="<?php echo $dirPrefix; ?>images/subhead_<?php echo _forFilename; ?>.gif" alt="<?php echo $sectionName; ?>" />-->
-		
+				
 		<div id="subnav">
 	
 			<?php

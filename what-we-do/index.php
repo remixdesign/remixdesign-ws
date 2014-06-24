@@ -9,6 +9,8 @@ include("../includes/top.php");
 
 ?>
 
+Using the Agile methodology as a cornerstone, we create and build beautiful, functional Web and mobile software, then help you launch it toward success in the market. 
+
 <div class="left">
 	
 	<h2>web and mobile</h2>

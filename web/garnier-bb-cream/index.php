@@ -2,21 +2,21 @@
 
 $sectionName = "web";
 $galleryName = "Garnier BB Cream - I Love My BB";
-$gallerySite = "garnier-bb-cream";
+$gallerySlug = "garnier-bb-cream";
 
 $galleryInfo_client = "L'oreal";
 
-$galleryInfo_objective = "";
+$galleryInfo_objective = "Introduce the Garnier line's new makeup product to female users on Facebook.";
 
-$galleryInfo_solution = "";
+$galleryInfo_solution = "The app highlighted product features and options, captured customer reviews, and drove traffic to other channels.";
 
 $galleryInfo_services = array (
-			'web development', 
+			'Web development', 
 			'social media development', 
 			);
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 3;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

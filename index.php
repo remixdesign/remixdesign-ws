@@ -6,23 +6,28 @@ include("includes/top.php");
 
 ?>
 
-<div id="home_hero">
+<div class="m-heroSlideshow">
 
-	<?php
+	<div class="m-heroSlideshow-smallImages">
+		<?php showAllImages('_img/home/slideshow/small/', '.jpg', 'e-smallImage'); ?>
+	</div>
 	
-		showAllImages('_img/home/slideshow/small/', '.jpg', 'slideshow-sm');
-		
-		showAllImages('_img/home/slideshow/large/', '.jpg', null);
-	
-	?>
+	<div class="m-heroSlideshow-largeImages">
+		<?php showAllImages('_img/home/slideshow/large/', '.jpg', 'e-largeImage'); ?>
+	</div>
 	
 	<button>
 		pause
 	</button>
 	
-	<p>
-		Remix Design is a digital design, technology and strategy firm, serving small and mid-size businesses in the New York metro area.
-	</p>
+	<h1>
+		Remix Design does Web and mobile design, development, branding, marketing, and strategy for entrepreneurs, startups, and small, growing businesses.
+	</h1>
+	
+	<!-- MOVE THESE -->
+	<link rel="stylesheet" href="_css/stylesheets/template-home.css">
+	<script src="_js/heroSlideshow.js"></script>
+	<!-- MOVE THESE -->
 
 </div>
 
