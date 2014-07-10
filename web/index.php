@@ -67,13 +67,6 @@ include("../includes/top.php");
 	
 	<div class="section_thumb_container">
 	
-		<a href="quality-caring/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/quality-caring/th_1.gif" class="section_thumb" alt="" /></a>
-		<a href="quality-caring/">Quality Caring</a>
-		
-	</div>
-	
-	<div class="section_thumb_container">
-	
 		<a href="next-step-in-prevention/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/next-step-in-prevention/th_1.gif" class="section_thumb" alt="" /></a>
 		<a href="next-step-in-prevention/">Next Step in Prevention</a>
 		
@@ -160,6 +153,13 @@ include("../includes/top.php");
 	
 		<a href="playboy-sex-tips-from-sex-and-the-city/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/playboy-sex-tips-from-sex-and-the-city/th_1.gif" class="section_thumb" alt="" /></a>
 		<a href="playboy-sex-tips-from-sex-and-the-city/">Playboy's Sex Tips from Sex and the City</a>
+		
+	</div>
+	
+	<div class="section_thumb_container">
+	
+		<a href="quality-caring/"><img src="<?php echo $siteRootPath; ?>/_img/portfolio/web/quality-caring/th_1.gif" class="section_thumb" alt="" /></a>
+		<a href="quality-caring/">Quality Caring</a>
 		
 	</div>
 	

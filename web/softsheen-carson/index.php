@@ -10,7 +10,7 @@ $galleryInfo_objective = "Give a fresh new look to a household name in hair care
 $galleryInfo_solution = "The update is youthful, slick and animated. Multi-level flyout navigation organizes numerous products and categories.";
 
 $galleryInfo_services = array (
-			'web development', 
+			'Web development', 
 			);
 
 $galleryThumbs = true;

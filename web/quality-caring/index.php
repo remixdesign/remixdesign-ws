@@ -9,16 +9,16 @@ $galleryInfo_client = "Vidette Todaro-Francheshi";
 
 $galleryInfo_objective = "Create a blog and Web site for an author, nurse and and teacher to promote her ideas and publications.";
 
-$galleryInfo_solution = "Wordpress was used as a CMS to allow the client to update quickly and easily. ...";
+$galleryInfo_solution = "Wordpress was used as a CMS to allow the client to write blog entries and edit pages quickly and easily.";
 
 $galleryInfo_services = array (
-			'web design',
-			'web development', 
+			'Web design',
+			'Web development', 
 			'CMS development', 
 			);
 
 $galleryThumbs = true;
-$maxPics = 4;
+$maxPics = 3;
 
 $dirLevel = 2;
 $dirPrefix = "../../";

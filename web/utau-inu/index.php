@@ -12,13 +12,13 @@ $galleryInfo_objective = "Create a blog and Web site for a multi-talented TV per
 $galleryInfo_solution = "Wordpress was used as a CMS to allow the client to update performance information quickly and easily. Custom video and audio players give a unique feel to the creator's work.";
 
 $galleryInfo_services = array (
-			'web design',
-			'web development', 
+			'Web design',
+			'Web development', 
 			'CMS development', 
 );
 
 $galleryThumbs = true;
-$maxPics = 3;
+$maxPics = 4;
 
 $dirLevel = 2;
 $dirPrefix = "../../";
